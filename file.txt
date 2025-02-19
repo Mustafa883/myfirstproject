@@ -1,2 +1,3 @@
-My name is Mustafa
-I am an FCS student
+My name is Mustafa.
+
+I am an FCS student at SE Factory.
